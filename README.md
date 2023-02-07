@@ -1,6 +1,6 @@
 # Sequence-to-Sequence CoreNLP
 
-Codes for our paper *[Unleashing the True Potential of Sequence-to-Sequence Models for Sequence Tagging and Structure Parsing]()* published to [TACL 2023](https://transacl.org/). 
+Codes for our paper *[Unleashing the True Potential of Sequence-to-Sequence Models for Sequence Tagging and Structure Parsing](https://arxiv.org/abs/2302.02275)* published to [TACL 2023](https://transacl.org/). 
 
 ![dep](docs/fig/dep.png)
 
